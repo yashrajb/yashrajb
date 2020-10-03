@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **basanyash627@gmail.com**
 
+- ⚡ Fun fact **I think i can learn anything**
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/yashraj-basan-11b915157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashraj-basan-11b915157" height="30" width="40" /></a>
