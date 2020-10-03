@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yashraj basan</h1>
 <h3 align="center">aspiring developer and life long learner</h3>
 
-- 🔭 I’m currently working in **appitsimple infotek as nodejs**
+- 🔭 I’m currently working in **appitsimple infotek as nodejs developer**
 
 - 🌱 I’m currently learning **godot game engine, guitar**
 
