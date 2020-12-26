@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **godot game engine, guitar**
 
-- 👨‍💻 All of my projects are available at [https://yashrajbasan.com](https://yashrajbasan.com)
+- 👨‍💻 All of my projects are available at [https://yashrajb.github.io](https://yashrajbasan.com)
 
 - 💬 Ask me about **full stack javascript development & PHP**
 
