@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yashraj</h1>
-<h3>A passionate full stack web dev with 2.5 years of experience from India</h3>
+<h3>Passionate about building innovative software solutions to address real-world and business challenges.</h3>
 
 - 👨‍💻 All of my projects are available at [https://yashrajb.github.io](https://yashrajb.github.io)
 
