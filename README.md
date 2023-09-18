@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **basanyash627@gmail.com**
 
-- 📄 Know about my experiences [https://yashrajb.github.io/Yashraj-Resume.pdf](https://yashrajb.github.io/Yashraj-Resume.pdf)
+- 📄 Know about my experiences [https://yashrajb.github.io/Yashraj-Resume.pdf](https://yashrajb.github.io/Yashraj-Basan-Resume.pdf)
 
 
 
