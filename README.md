@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yashraj</h1>
 <h3>Passionate about building innovative software solutions to address real-world and business challenges.</h3>
 
-- 👨‍💻 Check out my portfolio - [https://yashrajb.github.io](https://yashrajb.github.io)
+- 👨‍💻 Check out my portfolio - [https://yashrajbasan.co.in](https://yashrajbasan.co.in)
 
 - 📝 I write blogs on [https://basanyash627.medium.com/](https://basanyash627.medium.com/)
 
