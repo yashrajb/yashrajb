@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yashraj</h1>
-<h3>Passionate about building innovative software solutions to address real-world and business challenges.</h3>
+<h3>Passionate about building innovative software solutions to address real world and business challenges.</h3>
 
 - 👨‍💻 Check out my portfolio - [https://yashrajbasan.co.in](https://yashrajbasan.co.in)
 
